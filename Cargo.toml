@@ -1,0 +1,9 @@
+[package]
+name = "xorcrypt-rs"
+version = "0.1.0"
+authors = ["Proximyst <proximyst@proximyst.com>"]
+
+[dependencies]
+termion = "*"
+rust-crypto = "*"
+tempfile = "*"
